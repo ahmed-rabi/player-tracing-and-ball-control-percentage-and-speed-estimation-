@@ -32,8 +32,8 @@ A computer vision-based football analytics toolkit that tracks players, estimate
 - Python
 - OpenCV
 - Jupyter Notebook
-- Deep Learning (YOLO or similar for detection)
-- Tracking algorithms (SORT, DeepSORT)
+- Deep Learning (YOLO)
+- Tracking algorithms (ByteTrack)
 
 ## 📦 Installation
 
