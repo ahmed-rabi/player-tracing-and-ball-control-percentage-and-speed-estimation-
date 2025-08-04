@@ -17,7 +17,7 @@ A computer vision-based football analytics toolkit that tracks players, estimate
 | `view_transformer/` | Transforms camera view to bird’s-eye perspective |
 | `main.py` | Entry point for running the full pipeline |
 
-[Uploading output.avi…]()
+
 
 ## 🚀 Features
 
